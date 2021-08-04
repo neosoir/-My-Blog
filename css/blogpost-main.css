@@ -1,0 +1,33 @@
+.grid-container
+{
+    max-width: 980px;
+    margin: auto;
+}
+
+.blogpost-img-container 
+{
+    padding: 0px 50px 40 px;
+}
+
+.blogpost-img-container img
+{ 
+    width: 100%;
+    border-radius: 5px;
+}
+
+.blogpost-main-container
+{
+    padding: 0px 50px 40 px;
+}
+
+.blogpost-main-container h3
+{
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 20px;
+}
+
+.blogpost-main-container h1
+{
+    text-align: center;
+    font-size: 35px;
+}
