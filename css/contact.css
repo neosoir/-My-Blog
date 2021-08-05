@@ -2,9 +2,7 @@
 {
     background-color: #e6e9ed;
     width: 100%;
-    min-height: 250px;
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .contact-main-container div
@@ -12,7 +10,7 @@
     display: inline-block;
     width: 49.5%;
     height: 100%;
-    padding-top: 50px;
+    padding: 10px 0px;
 }
 
 .contact-main-container div a
