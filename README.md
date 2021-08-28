@@ -1,2 +1,2 @@
 # Blog
-Maquetacion y diseño de un [Blog Personal](https://neosoir.github.io/Blog/ "Blog Personal").
+Maquetacion y diseño de un [Blog Personal](https://neosoir.neosoir.com/ "Blog Personal").
